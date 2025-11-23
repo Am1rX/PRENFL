@@ -29,8 +29,8 @@ This script is designed to simplify the Linux server hardening process and mitig
 <!-- end list -->
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-cd YOUR-REPO
+git clone https://github.com/Am1rX/PRENFL.git
+cd PRENFL
 ```
 
 2.  Run the script as root:
@@ -38,7 +38,7 @@ cd YOUR-REPO
 <!-- end list -->
 
 ```bash
-sudo python3 firewall.py
+sudo python3 PRENFL.py
 ```
 
 ## 📖 Usage Guide
