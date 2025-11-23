@@ -14,7 +14,7 @@ This script is designed to simplify the Linux server hardening process and mitig
       * Display of failed login attempts (SSH Failed Logins).
       * Smart log coloring (Attacker IPs highlighted in red).
   * **⚡ Smart Wizard:** Step-by-step guide for firewall configuration with options for automatic or manual modes.
-  * **♻️ Smart Rule Management:** Prevents rule duplication and includes the ability to fully flush the firewall before reconfiguration.
+  * **♻️ Smart Rule Management:** Prevents rule duplication and includes the ability to flush the firewall before reconfiguration fully.
 
 ## 🚀 Prerequisites
 
@@ -72,6 +72,4 @@ This tool manages network firewall rules. Always ensure you allow traffic on you
 
 -----
 
-\<div align="center"\>
-Made with ❤️ and Python
-\</div\>
+Made with ❤️ by AMYRX
